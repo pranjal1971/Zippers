@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1093027686339",
+    "project_id": "aura-cart",
+    "storage_bucket": "aura-cart.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1093027686339:android:dd2961ac7e85a78da1ff76",
+        "android_client_info": {
+          "package_name": "com.deva.auracart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZ3SdPFx74o6NHeZGRnPprDjIYeQ8Zkks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
